@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I'm Hasibul Hasan and I'm a Mobile app developer.
 A subject matter expert in mobile app development with excellent service as the main focus. I am a competitor of the international and national level programming contest and also a tech lover. Learning new technologies or earning new knowledge is my passion.
-(https://shuvo1260.github.io/images/banner.jpg)
+![Mobile app development](https://shuvo1260.github.io/images/banner.jpg)
 <!--
 **Shuvo1260/shuvo1260** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
