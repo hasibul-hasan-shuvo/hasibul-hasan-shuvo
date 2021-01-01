@@ -17,7 +17,9 @@ My hobby is art, travel and crafty. I am also a food lover. Eating delicious foo
 * Mobile app development
 
 ## Works
-![Admission Consultant](https://raw.githubusercontent.com/Shuvo1260/shuvo1260/main/images/work-1.jpg) ![Prizer Kuwait](https://raw.githubusercontent.com/Shuvo1260/shuvo1260/main/images/work-2.jpg) ![invi Kuwait](https://raw.githubusercontent.com/Shuvo1260/shuvo1260/main/images/work-3.jpg)
+<img src="https://raw.githubusercontent.com/Shuvo1260/shuvo1260/main/images/work-1.jpg" width="200"/> <img src="https://raw.githubusercontent.com/Shuvo1260/shuvo1260/main/images/work-2.jpg" width="200"/>  <img src="https://raw.githubusercontent.com/Shuvo1260/shuvo1260/main/images/work-3.jpg" width="200"/> 
+
+<!-- ![Admission Consultant](https://raw.githubusercontent.com/Shuvo1260/shuvo1260/main/images/work-1.jpg) ![Prizer Kuwait](https://raw.githubusercontent.com/Shuvo1260/shuvo1260/main/images/work-2.jpg) ![invi Kuwait](https://raw.githubusercontent.com/Shuvo1260/shuvo1260/main/images/work-3.jpg) -->
 <!--
 **Shuvo1260/shuvo1260** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
