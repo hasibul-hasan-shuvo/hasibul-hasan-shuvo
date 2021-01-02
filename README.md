@@ -7,7 +7,7 @@ A subject matter expert in mobile app development with excellent service as the 
 
 My hobby is art, travel and crafty. I am also a food lover. Eating delicious foods and trying to cook new foods is another hidden hobby. I love to feel and enjoy every moment of my life. All the time I try to learn from others' lives and their mistakes because I feel life is not so big that I will always learn from my mistakes. I don't have so many achievements but I have a bundle of experiences to make my life better and happy. I also love to share my knowledge and experiences with others so they don't make the same mistakes that I have done.😄
 
-## Skills and Experiences
+## Skills and Experiences:
 * Problem solving
 * Algorithms
 * C/C++
@@ -16,10 +16,10 @@ My hobby is art, travel and crafty. I am also a food lover. Eating delicious foo
 * Java
 * Mobile app development
 
-## Work samples
+## Work samples:
 <img src="https://raw.githubusercontent.com/Shuvo1260/shuvo1260/main/images/work-1.jpg" width="200"/> <img src="https://raw.githubusercontent.com/Shuvo1260/shuvo1260/main/images/work-2.jpg" width="200"/>  <img src="https://raw.githubusercontent.com/Shuvo1260/shuvo1260/main/images/work-3.jpg" width="200"/> 
 
-
+## Find Me:
 <a href="http://shuvo1260.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/Shuvo1260/shuvo1260/main/images/profile.png" width="40"/></a> <a href="https://www.facebook.com/Shuvo1260" target="_blank"><img src="https://raw.githubusercontent.com/Shuvo1260/shuvo1260/main/images/facebook.png" width="40"/></a>   <a href="https://www.linkedin.com/in/iamhasibulhasan/" target="_blank"><img src="https://raw.githubusercontent.com/Shuvo1260/shuvo1260/main/images/linkedin.png" width="40"/></a>  <a href="https://www.upwork.com/freelancers/~011fc430e5dd1a8584" target="_blank"><img src="https://raw.githubusercontent.com/Shuvo1260/shuvo1260/main/images/upwork.png" width="40"/></a> <a href="https://www.fiverr.com/binaryitplanet" target="_blank"><img src="https://raw.githubusercontent.com/Shuvo1260/shuvo1260/main/images/fiverr.png" width="40"/></a>  
 
 
