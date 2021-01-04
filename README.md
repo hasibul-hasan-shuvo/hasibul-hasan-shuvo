@@ -1,11 +1,8 @@
 
 ![Mobile app development](https://raw.githubusercontent.com/Shuvo1260/shuvo1260/main/images/banner.jpg)
 
-<img align="right" alt="GIF" src="https://www.touchmediaads.com/myimg/b1.3.gif"
-height="300"/>
-<!-- <br /> -->
-<!-- <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1124806/screenshots/4876982/ezgif.com-optimize.gif"
-height="300" width="400"/> -->
+<img align="right" alt="GIF" src="https://www.touchmediaads.com/myimg/b1.3.gif"height="300"/>
+
 ### Hi there. I'm Hasibul Hasan a Mobile app developer. 👋
 #### I'm A Programmer, Creator, Mentor, Founder, Tech lover and also a real life problem solver.
 <!-- 
@@ -24,6 +21,7 @@ My hobby is art, travel and crafty. I am also a food lover. Eating delicious foo
 
 ## Tools and Languages:
 <img align="left" src="https://github.com/tomchen/stack-icons/blob/master/logos/android-icon.svg" alt="Redux" width="21px" height="21px" />
+<img align="left" src="https://github.com/tomchen/stack-icons/blob/master/logos/intellij-idea.svg" alt="Redux" width="21px" height="21px" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" src="https://github.com/tomchen/stack-icons/blob/master/logos/github-octocat.svg" alt="Redux" width="21px" height="21px" />
 <img align="left" src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" alt="Redux" width="21px" height="21px" />
