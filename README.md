@@ -14,7 +14,9 @@ My hobby is art, travel and crafty. I am also a food lover. Eating delicious foo
 * C/C++
 * Kotlin
 * Flutter
+* Dart
 * Java
+* MySQL
 * Mobile app development
 
 ## Tools and Languages:
