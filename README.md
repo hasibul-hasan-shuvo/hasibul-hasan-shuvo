@@ -3,9 +3,8 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Shuvo1260/shuvo1260/main/images/computer-animated.gif"
 height="300"/>
-### Hi there 👋
-#### I'm Hasibul Hasan and I'm a Mobile app developer.
-I am a programming problem solver, tech lover, foody and also a real life problem solver. Learning new technologies or earning new knowledge is my passion.
+### Hi there. I'm Hasibul Hasan a Mobile app developer. 👋
+#### I'm A Programmer, Creator, Mentor, Founder, Tech lover and also a real life problem solver.
 <!-- 
 My hobby is art, travel and crafty. I am also a food lover. Eating delicious foods and trying to cook new foods is another hidden hobby. I love to feel and enjoy every moment of my life. All the time I try to learn from others' lives and their mistakes because I feel life is not so big that I will always learn from my mistakes. I don't have so many achievements but I have a bundle of experiences to make my life better and happy. I also love to share my knowledge and experiences with others so they don't make the same mistakes that I have done.😄 -->
 
@@ -23,7 +22,6 @@ My hobby is art, travel and crafty. I am also a food lover. Eating delicious foo
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" src="https://github.com/tomchen/stack-icons/blob/master/logos/github-icon.svg" alt="Redux" width="21px" height="21px" />
 
-<br />
 <br />
 
 ## Work samples:
