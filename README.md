@@ -38,6 +38,7 @@ My hobby is art, travel and crafty. I am also a food lover. Eating delicious foo
 <img align="left" src="https://github.com/tomchen/stack-icons/blob/master/logos/adobe-photoshop.svg" alt="Redux" width="21px" height="21px" />
 <img align="left" src="https://github.com/tomchen/stack-icons/blob/master/logos/adobe-illustrator.svg" alt="Redux" width="21px" height="21px" />
 <img align="left" src="https://github.com/tomchen/stack-icons/blob/master/logos/google-analytics.svg" alt="Redux" width="21px" height="21px" />
+<img align="left" src="https://github.com/tomchen/stack-icons/blob/master/logos/firebase.svg" alt="Redux" width="21px" height="21px" />
 
 <br />
 
