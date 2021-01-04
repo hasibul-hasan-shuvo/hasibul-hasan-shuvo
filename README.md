@@ -20,28 +20,7 @@ My hobby is art, travel and crafty. I am also a food lover. Eating delicious foo
 * Mobile app development
 
 ## Tools and Languages:
-<img src="https://github.com/tomchen/stack-icons/blob/master/logos/android-icon.svg" alt="Redux" width="21px" height="21px" />
-<img src="https://github.com/tomchen/stack-icons/blob/master/logos/intellij-idea.svg" alt="Redux" width="21px" height="21px" />
-<img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img src="https://github.com/tomchen/stack-icons/blob/master/logos/github-octocat.svg" alt="Redux" width="21px" height="21px" />
-<img src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" alt="Redux" width="21px" height="21px" />
-<img src="https://github.com/tomchen/stack-icons/blob/master/logos/c-plusplus.svg" alt="Redux" width="21px" height="21px" />
-<img src="https://github.com/tomchen/stack-icons/blob/master/logos/kotlin.svg" alt="Redux" width="21px" height="21px" />
-<img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="Redux" width="21px" height="21px" />
-<img src="https://github.com/tomchen/stack-icons/blob/master/logos/flutter.svg" alt="Redux" width="21px" height="21px" />
-<img src="https://github.com/tomchen/stack-icons/blob/master/logos/dart.svg" alt="Redux" width="21px" height="21px" />
-<img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" alt="Redux" width="21px" height="21px" />
-<img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" alt="Redux" width="21px" height="21px" />
-<img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="Redux" width="21px" height="21px" />
-<img src="https://github.com/tomchen/stack-icons/blob/master/logos/php.svg" alt="Redux" width="21px" height="21px" />
-<img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="Redux" width="21px" height="21px" />
-<img src="https://github.com/tomchen/stack-icons/blob/master/logos/sqlite.svg" alt="Redux" width="21px" height="21px" />
-<img src="https://github.com/tomchen/stack-icons/blob/master/logos/firebase.svg" alt="Redux" width="21px" height="21px" />
-<img src="https://github.com/tomchen/stack-icons/blob/master/logos/google-analytics.svg" alt="Redux" width="21px" height="21px" />
-<img src="https://github.com/tomchen/stack-icons/blob/master/logos/admob.svg" alt="Redux" width="21px" height="21px" />
-<img src="https://github.com/tomchen/stack-icons/blob/master/logos/adobe-photoshop.svg" alt="Redux" width="21px" height="21px" />
-<img src="https://github.com/tomchen/stack-icons/blob/master/logos/adobe-illustrator.svg" alt="Redux" width="21px" height="21px" />
-<img src="https://github.com/tomchen/stack-icons/blob/master/logos/figma.svg" alt="Redux" width="21px" height="21px" />
+<img src="https://github.com/tomchen/stack-icons/blob/master/logos/android-icon.svg" alt="Redux" width="21px" height="21px" /><img src="https://github.com/tomchen/stack-icons/blob/master/logos/intellij-idea.svg" alt="Redux" width="21px" height="21px" /><img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /><img src="https://github.com/tomchen/stack-icons/blob/master/logos/github-octocat.svg" alt="Redux" width="21px" height="21px" /><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" alt="Redux" width="21px" height="21px" /><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c-plusplus.svg" alt="Redux" width="21px" height="21px" /><img src="https://github.com/tomchen/stack-icons/blob/master/logos/kotlin.svg" alt="Redux" width="21px" height="21px" /><img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="Redux" width="21px" height="21px" /><img src="https://github.com/tomchen/stack-icons/blob/master/logos/flutter.svg" alt="Redux" width="21px" height="21px" /><img src="https://github.com/tomchen/stack-icons/blob/master/logos/dart.svg" alt="Redux" width="21px" height="21px" /><img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" alt="Redux" width="21px" height="21px" /><img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" alt="Redux" width="21px" height="21px" /><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="Redux" width="21px" height="21px" /><img src="https://github.com/tomchen/stack-icons/blob/master/logos/php.svg" alt="Redux" width="21px" height="21px" /><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="Redux" width="21px" height="21px" /><img src="https://github.com/tomchen/stack-icons/blob/master/logos/sqlite.svg" alt="Redux" width="21px" height="21px" /><img src="https://github.com/tomchen/stack-icons/blob/master/logos/firebase.svg" alt="Redux" width="21px" height="21px" /><img src="https://github.com/tomchen/stack-icons/blob/master/logos/google-analytics.svg" alt="Redux" width="21px" height="21px" /><img src="https://github.com/tomchen/stack-icons/blob/master/logos/admob.svg" alt="Redux" width="21px" height="21px" /><img src="https://github.com/tomchen/stack-icons/blob/master/logos/adobe-photoshop.svg" alt="Redux" width="21px" height="21px" /><img src="https://github.com/tomchen/stack-icons/blob/master/logos/adobe-illustrator.svg" alt="Redux" width="21px" height="21px" /><img src="https://github.com/tomchen/stack-icons/blob/master/logos/figma.svg" alt="Redux" width="21px" height="21px" />
 
 <br />
 <br />
