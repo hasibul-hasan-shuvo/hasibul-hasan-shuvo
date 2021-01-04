@@ -5,7 +5,7 @@
 height="300"/>
 ### Hi there 👋
 #### I'm Hasibul Hasan and I'm a Mobile app developer.
-I am a programming problem solver, tech lover and also a real life problem solver. Learning new technologies or earning new knowledge is my passion.
+I am a programming problem solver, tech lover, foody and also a real life problem solver. Learning new technologies or earning new knowledge is my passion.
 <!-- 
 My hobby is art, travel and crafty. I am also a food lover. Eating delicious foods and trying to cook new foods is another hidden hobby. I love to feel and enjoy every moment of my life. All the time I try to learn from others' lives and their mistakes because I feel life is not so big that I will always learn from my mistakes. I don't have so many achievements but I have a bundle of experiences to make my life better and happy. I also love to share my knowledge and experiences with others so they don't make the same mistakes that I have done.😄 -->
 
@@ -17,6 +17,9 @@ My hobby is art, travel and crafty. I am also a food lover. Eating delicious foo
 * Flutter
 * Java
 * Mobile app development
+
+## Tools and Languages:
+<a href="https://redux.js.org/" title="Redux"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/android-icon.svg" alt="Redux" width="21px" height="21px"></a>
 
 ## Work samples:
 <img src="https://raw.githubusercontent.com/Shuvo1260/shuvo1260/main/images/work-1.jpg" width="200"/> <img src="https://raw.githubusercontent.com/Shuvo1260/shuvo1260/main/images/work-2.jpg" width="200"/>  <img src="https://raw.githubusercontent.com/Shuvo1260/shuvo1260/main/images/work-3.jpg" width="200"/> 
