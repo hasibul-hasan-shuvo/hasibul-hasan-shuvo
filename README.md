@@ -1,7 +1,8 @@
 
 ![Mobile app development](https://raw.githubusercontent.com/Shuvo1260/shuvo1260/main/images/banner.jpg)
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Shuvo1260/shuvo1260/main/images/computer-animated.gif"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Shuvo1260/shuvo1260/main/images/computer-animated.gif"
+width="500" height="500"/>
 ### Hi there 👋
 #### I'm Hasibul Hasan and I'm a Mobile app developer.
 I am a programming problem solver, tech lover and also a real life problem solver. Learning new technologies or earning new knowledge is my passion.
