@@ -18,7 +18,7 @@ My hobby is art, travel and crafty. I am also a food lover. Eating delicious foo
 * Java
 * MySQL
 * Mobile app development
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Shuvo1260/shuvo1260/main/images/svg1.gif" height="150" style="margin-left: 5px"/>
+
 ## Tools and Languages:
 <img align="left" src="https://github.com/tomchen/stack-icons/blob/master/logos/android-icon.svg" alt="Redux" width="21px" height="21px" />
 <img align="left" src="https://github.com/tomchen/stack-icons/blob/master/logos/intellij-idea.svg" alt="Redux" width="21px" height="21px" />
@@ -59,6 +59,7 @@ My hobby is art, travel and crafty. I am also a food lover. Eating delicious foo
 <a href="http://shuvo1260.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/Shuvo1260/shuvo1260/main/images/profile.png" width="25"/></a> <a href="https://www.facebook.com/Shuvo1260" target="_blank"><img src="https://raw.githubusercontent.com/Shuvo1260/shuvo1260/main/images/facebook.png" width="25"/></a>   <a href="https://www.linkedin.com/in/iamhasibulhasan/" target="_blank"><img src="https://raw.githubusercontent.com/Shuvo1260/shuvo1260/main/images/linkedin.png" width="25"/></a>  <a href="https://www.upwork.com/freelancers/~011fc430e5dd1a8584" target="_blank"><img src="https://raw.githubusercontent.com/Shuvo1260/shuvo1260/main/images/upwork.png" width="25"/></a> <a href="https://www.fiverr.com/binaryitplanet" target="_blank"><img src="https://raw.githubusercontent.com/Shuvo1260/shuvo1260/main/images/fiverr.png" width="25"/></a>  
 
 
+<center><img alt="GIF" src="https://raw.githubusercontent.com/Shuvo1260/shuvo1260/main/images/new-Converted.gif" style="margin-left: 5px"/></center>
 
 
 <!-- ![Admission Consultant](https://raw.githubusercontent.com/Shuvo1260/shuvo1260/main/images/work-1.jpg) ![Prizer Kuwait](https://raw.githubusercontent.com/Shuvo1260/shuvo1260/main/images/work-2.jpg) ![invi Kuwait](https://raw.githubusercontent.com/Shuvo1260/shuvo1260/main/images/work-3.jpg) -->
