@@ -52,7 +52,7 @@ My hobby is art, travel and crafty. I am also a food lover. Eating delicious foo
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shuvo1260&count_private=true&theme=midnight-purple&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuvo1260&count_private=true&theme=midnight-purple&hide_border=true&show_icons=true&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shuvo1260&theme=midnight-purple&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)<img alt="GIF" src="https://raw.githubusercontent.com/Shuvo1260/shuvo1260/main/images/svg1.gif" height="150" style="margin-left: 5px"/>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shuvo1260&theme=midnight-purple&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Shuvo1260/shuvo1260/main/images/svg1.gif" height="150" style="margin-left: 5px"/>
 
 
 ## Connect with me:
