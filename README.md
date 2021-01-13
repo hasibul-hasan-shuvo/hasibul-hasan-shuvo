@@ -21,7 +21,6 @@ My hobby is art, travel and crafty. I am also a food lover. Eating delicious foo
 * Mobile app development
 
 ## Tools and Languages:
-<code>
 <img align="left" src="https://github.com/tomchen/stack-icons/blob/master/logos/android-icon.svg" alt="Redux" width="21px" height="21px" />
 <img align="left" src="https://github.com/tomchen/stack-icons/blob/master/logos/intellij-idea.svg" alt="Redux" width="21px" height="21px" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -44,7 +43,7 @@ My hobby is art, travel and crafty. I am also a food lover. Eating delicious foo
 <img align="left" src="https://github.com/tomchen/stack-icons/blob/master/logos/adobe-photoshop.svg" alt="Redux" width="21px" height="21px" />
 <img align="left" src="https://github.com/tomchen/stack-icons/blob/master/logos/adobe-illustrator.svg" alt="Redux" width="21px" height="21px" />
 <img align="left" src="https://github.com/tomchen/stack-icons/blob/master/logos/figma.svg" alt="Redux" width="21px" height="21px" />
-</code>
+
 <br />
 <br />
 
